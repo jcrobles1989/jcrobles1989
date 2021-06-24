@@ -2,7 +2,7 @@
 
 ### Hi there 👋 👨🏻‍💻
 
-<img src="https://media.giphy.com/media/mfzuTpR5UGzo7XWlXu/giphy.gif">
+<img src="https://media.giphy.com/media/7cH1iWkmSsTSaAO4rS/giphy.gif">
 
 Welcome to my GitHub! My name is Jose, and I am a full-stack web developer with a passion for learning and building web applications. 
 
