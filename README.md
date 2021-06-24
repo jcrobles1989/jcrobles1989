@@ -6,7 +6,7 @@
 
 Welcome to my GitHub! My name is Jose, and I am a full-stack web developer with a passion for learning and building web applications. 
 
-- 🔭 I’m currently working on a [project](https://github.com/Lambda-School-Labs/human-rights-first-police-fe-a) for [Human Rights First](https://a.humanrightsfirst.dev/), a non-profit international human rights organization 
+- 🔭 I’m currently working on a [project](https://a.humanrightsfirst.dev/) for [Human Rights First](https://www.humanrightsfirst.org/), a non-profit international human rights organization 
 - 🌱 I’m currently learning about blockchain, cybersecurity, cash payments, and finance
 - 👯 I’m looking to collaborate on projects with people who are passionate about building technologies that will help make the world a more equitable place 
 - 🤔 I’m looking for help with cryptography and blockchain 
