@@ -14,3 +14,5 @@ Welcome to my GitHub! My name is Jose, and I am a full-stack web developer with 
 - 📫  You can find me on [LinkedIn](https://www.linkedin.com/in/jcroblesorozco/) or [Twitter](https://twitter.com/jcorozcorobles) 
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I'm currently learning to play the piano
+
+[Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcrobles1989)
