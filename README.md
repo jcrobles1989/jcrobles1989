@@ -15,4 +15,4 @@ Welcome to my GitHub! My name is Jose, and I am a full-stack web developer with 
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I'm currently learning to play the piano
 
-[Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcrobles1989)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcrobles1989&theme=dark&show_icons=true)
