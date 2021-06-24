@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/7cH1iWkmSsTSaAO4rS/giphy.gif">
 
-Welcome to my GitHub! My name is Jose, and I am a full-stack web developer with a passion for learning and building web applications. 
+Welcome to my GitHub! My name is Jose, and I am a full-stack web developer with a passion for learning and building really cool web applications. 
 
 - 🔭 I’m currently working on a [project](https://a.humanrightsfirst.dev/) for [Human Rights First](https://www.humanrightsfirst.org/), a non-profit international human rights organization 
 - 🌱  I’m currently learning about blockchain, cybersecurity, cash payments, and finance
